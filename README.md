@@ -1,4 +1,5 @@
-# Google_signin_signout
+# Google signin signout
+#Google signin & signout use firebase based on android studio use java
 
 Android application that involves Google Sign-In and Sign-Up, utilizes Java, stores user data securely, and opens the user profile automatically upon subsequent launches. Here are some best practices and considerations for developing such an application
 
